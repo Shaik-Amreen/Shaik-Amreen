@@ -323,22 +323,6 @@ Published at **ICCTDC 2025**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Amreen&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Amreen&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Amreen&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌐 Portfolio
 
 Check out my portfolio here:  
