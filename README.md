@@ -312,14 +312,12 @@ Published at **ICCTDC 2025**
 
 ## 🏆 Certifications
 
-- Frontend Developer – React (HackerRank)
-- JavaScript Basic (HackerRank)
-- JavaScript Intermediate (HackerRank)
-- Python (HackerRank)
-- Problem Solving (HackerRank)
-- SQL Basic (HackerRank)
-- SQL Intermediate (HackerRank)
-- Coding Ninjas Programming (Code Kaze)
+[![Frontend Developer – React](https://img.shields.io/badge/Frontend_Developer_React-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/ab632039636e)
+[![JavaScript Intermediate](https://img.shields.io/badge/JavaScript_Intermediate-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/20eb356e5db2)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/fa9ea78d6e05)
+[![Python](https://img.shields.io/badge/Python-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/17795979b091)
+[![SQL Basic](https://img.shields.io/badge/SQL_Basic-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/3455fe4f7f6f)
+[![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/6b69f49697dd)
 
 ---
 
