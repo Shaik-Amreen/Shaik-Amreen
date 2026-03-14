@@ -87,6 +87,56 @@ I’m a Full Stack Engineer passionate about building scalable web and mobile ap
 
 ---
 
+## 💼 Experience
+
+### Senior Software Engineer  
+**AMD – Infobell IT Solutions Pvt Ltd** | Bangalore, India  
+**Mar 2024 – Dec 2025**
+- Engineered scalable full-stack applications serving 100K+ enterprise users
+- Built responsive interfaces with React.js, WordPress, and Node.js
+- Automated CI/CD pipelines with GitLab and AWS, reducing deployment time by 40%
+- Optimized REST APIs and database queries, improving response time by 35%
+- Collaborated in Agile sprints using Jira and delivered production-ready features
+
+### Full Web and Mobile Developer  
+**Infobell IT Solutions Pvt Ltd** | Bangalore, India  
+**Jan 2023 – Mar 2024**
+- Developed cross-platform mobile apps using React Native with 99.5% uptime
+- Built responsive web apps with React.js and Redux
+- Integrated Firebase for notifications, deep linking, and authentication
+- Designed scalable MongoDB database architectures
+- Mentored junior developers on React and version control workflows
+
+### MEAN Stack Developer Intern  
+**Redbee 365 Studio Pvt Ltd** | Remote  
+**Sep 2022 – Dec 2022**
+- Built warehouse management web applications using Angular, Node.js, Express, and MongoDB
+- Improved API response time by 25% through indexing and query optimization
+- Developed reusable Angular components for consistency and scalability
+
+### React Native Developer Intern  
+**Earthetic** | Remote  
+**Jul 2022 – Oct 2022**
+- Developed cross-platform mobile applications for iOS and Android
+- Built dynamic UI components and e-commerce features
+- Collaborated with design teams to convert Figma designs into production-ready interfaces
+
+### MERN Stack Developer Intern  
+**Yes Real Technologies Pvt Ltd** | Remote  
+**Jan 2022 – Jun 2022**
+- Developed full-stack applications using MongoDB, Express.js, React.js, and Node.js
+- Built a college ERP system to digitize manual processes
+- Implemented authentication, data management, and API integrations
+
+### Backend Developer Intern  
+**Hirecraft** | Remote  
+**Jul 2020 – Aug 2020**
+- Developed backend functionalities using Node.js and MongoDB
+- Implemented multi-language support for 50+ languages
+- Designed optimized schemas and graphical reporting functionality
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 ASI ADP Job Alerts – Real-time CSULB Hiring Updates
@@ -245,6 +295,47 @@ Supports global system integrators by offering data-driven insights and recommen
 
 **Accurate Fake News Detection in Text-Based Content Using K-Nearest Neighbor, LSTM, MLP and CNN Models**  
 Published at **ICCTDC 2025**
+
+---
+
+## 🎓 Education
+
+### Master of Science in Computer Science  
+**California State University, Long Beach**  
+**Jan 2026 – Dec 2028**
+
+### B.Tech in Computer Science (3.69/4.0)  
+**JNTU Anantapur – MITS, Andhra Pradesh, India**  
+**Aug 2019 – May 2023**
+
+---
+
+## 🏆 Certifications
+
+- Frontend Developer – React (HackerRank)
+- JavaScript Basic (HackerRank)
+- JavaScript Intermediate (HackerRank)
+- Python (HackerRank)
+- Problem Solving (HackerRank)
+- SQL Basic (HackerRank)
+- SQL Intermediate (HackerRank)
+- Coding Ninjas Programming (Code Kaze)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Amreen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-Amreen&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Amreen&theme=tokyo-night" />
+</p>
 
 ---
 
