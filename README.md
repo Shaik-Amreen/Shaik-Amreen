@@ -31,7 +31,7 @@
 
 Every project starts as a problem worth solving — I turn it into something real.
 
-I'm a **Full Stack Engineer** with **3+ years of production experience** building scalable, accessible, and high-performance applications across web, mobile, and cloud — used by tens of thousands of users worldwide.
+I'm a **Full Stack Web and Mobile** with **3+ years of production experience** building scalable, accessible, and high-performance applications across web, mobile, and cloud — used by tens of thousands of users worldwide.
 
 - 🎓 **MS in Computer Science** — California State University, Long Beach (2026–2028)
 - 💼 **Ex-Senior Software Engineer** — AMD · Infobell IT Solutions, Bangalore
